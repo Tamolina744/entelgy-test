@@ -1,0 +1,6 @@
+server.servlet:
+  context-path: /entelgy-api 
+server:
+  port : 8080
+  error:
+        include-message: always
